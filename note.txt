@@ -1,0 +1,191 @@
+1-Parlez nous de vous :
+
+Je m'appelle Ogwo Precious, agee actuellement de 19 ans ,
+
+au college, ma passion pour la lecture et la logique, et ma faciliter pour l'anglais ont pousse mon initiation vers le domaine informatique 
+
+
+suite a l'obtention de mon Bac, en "octobre 2022" je me suis inscrit a l'université ESGIS
+
+pour y concretiser mon apprentisage , j'y est decouvers les fondements du developpement web aisin que les laguage de developpement logiciel tel que le langage c , c+ et java 
+
+au cours de mon cursus scolaire j'ai eu l'oportuniter de travailler sur divers projets en groupe 
+
+actuellement en fin de 2 eme annee a esgis , je me suis consacrer au developpement web precisemnt a la partie front - end
+
+je maitrise particulieremnt les langages web tel que :
+-HTML , css 
+-JavaScript , et le framework React
+
+
+
+ engagemer dans ma formation en informatique ,j ai obtenue diverse certification en ligne tel que:
+
+des certifications KOEING :
+
+-une certification sur l'utilisation d'Azure Cosmos DB
+-une certification sur la maîtrise des étiquettes emails assistée par l'IA
+
+
+des certification de NanaTech :
+-sur l'accès à l'informatique en ligne 
+-Une deuxieme sur la pensée critique (l'analyse et la resolution de problèmes informatiques )
+
+je n'est pas encore eu l'occasion de me forger un parcour professionel significatif neanmoins,
+
+j'ai une experience solide en secretariat , en planification et gestion de projet du a mes activiter dans le club AISEC au seins de l'université.
+
+
+je poursuis mon enthousiasme dans la quette de nouvelles competences 
+
+a cet effet ,
+
+je me suis recement initier au marketing en ligne a travers divers tutoriel 
+
+
+
+
+2. Parcours académique :
+
+J'ai obtenu mon baccalauréat en 2022. Actuellement, je poursuis ma licence en architecture Logiciel à l'université ESGIS. En plus de ma formation académique, j'ai obtenu diverses certifications en ligne, principalement de NanaTech, couvrant des sujets tels que l'accès à l'informatique en ligne et la pensée critique. J'ai également suivi des formations de KOEING sur l'utilisation d'Azure Cosmos DB et la maîtrise des étiquettes emails à l'aide de l'IA.
+
+3. Parcours professionnel :
+
+Bien que je n'aie pas encore eu l'occasion de travailler dans un milieu professionnel tel qu'une entreprise, j'ai occupé des postes de responsabilité au sein du club AISEC à l'université ESGIS. J'ai été impliquée dans la planification et la gestion de projets et d'activités en groupe, ce qui m'a permis de développer mes compétences en leadership et en gestion de projet.
+
+4. Compétences techniques :
+
+Je maîtrise plusieurs technologies de travail en équipe, telles que Git et Docker. Mes compétences en programmation incluent HTML, CSS, JavaScript et le langage C. Je suis également familière avec le framework React. Pour le développement, j'utilise principalement VS Code, et je possède des connaissances en bases de données telles que MySQL et PostgreSQL.
+
+5. Qualités personnelles :
+
+Je suis reconnue pour ma capacité à travailler efficacement en équipe, ma rigueur et mon sens de l'organisation. Au sein du club AISEC, j'ai souvent pris l'initiative de planifier et de gérer des projets, ce qui m'a permis de développer mes compétences en gestion de projet et en collaboration.
+
+
+
+
+
+
+
+1-Parlez-nous de vous :
+
+Je m'appelle Ogwo Precious, âgée actuellement de 19 ans. 
+
+Au collège, ma passion pour la lecture et la logique, ainsi que ma facilité pour l'anglais, m'ont poussée vers le domaine informatique.
+
+Suite à l'obtention de mon Bac en octobre 2022, je me suis inscrite à l'université ESGIS pour y concrétiser mon apprentissage.
+
+ J'y ai découvert les fondements du développement web ainsi que les langages de développement logiciel tels que le langage C, C++ et Java.
+
+Au cours de mon cursus scolaire, j'ai eu l'opportunité de travailler sur divers projets en groupe.
+
+
+ Actuellement, en fin de 2ème année à ESGIS, je me suis consacrer au développement web,  précisément à la partie front-end. 
+
+Je maîtrise particulièrement les langages web tels que :
+
+- HTML, CSS
+- JavaScript, et le framework React
+
+Engagée dans ma formation en informatique, j'ai obtenu diverses certifications en ligne telles que :
+
+Certifications KOEING :
+- Une certification sur l'utilisation d'Azure Cosmos DB
+- Une certification sur la maîtrise des étiquettes emails assistée par l'IA
+
+Certifications de NanaTech :
+- Une certification sur l'accès à l'informatique en ligne
+- Une certification sur la pensée critique (analyse et résolution de problèmes informatiques)
+
+Je n'ai pas encore eu l'occasion de me forger un parcours professionnel significatif, néanmoins,
+
+j'ai une expérience solide en secrétariat, en planification et en gestion de projet grâce à mes activités dans le club AISEC au sein de l'université.
+
+Je poursuis mon enthousiasme dans la quête de nouvelles compétences. À cet effet, je me suis récemment initiée au marketing en ligne à travers divers tutoriels.
+
+
+
+2-Pourquoi avez-vous choisi de postuler à l'ATD pour le stage ?
+
+
+l'atd repond aujourdhuit a une question crucial , quelle est la place de l'informatique et la numerisation dans le processus de developpement du pays.
+je suis certaine que mes competences en front end serons un atout significatif dans la digitalisation des services adminitratif ,
+
+je vise egalement l'objectif d'acquerire une experience professionel constructive au seins d'une equipe de developpeur aussi qualifier que celle de l'atd.
+
+
+
+3-quelle sont vos projet a long terme durant et apres votre stage ?
+
+-durant :
+je suis soucieuse d'acquerire une experience professionel solide au seins de votre equipe de developpeur et de participer a mon echelle a l'amelioration des service en ligne .
+
+apres:
+apres ma periode de stage , je serais ravis de continuer a mettre mon savoir faire au seins de l'atd en signant un contrat de travail
+
+
+4-Vous avez déjà choisi votre thème de soutenance ?
+
+non je n est pas encore choisi un theme pour ma soutenance 
+
+5-Comment arrivez-vous à travailler sous pression ?
+(Avez-vous des exemples concrets de situations où vous avez dû travailler sous pression ou résoudre des problèmes complexes ?)
+
+En tant que membre du club AISEC j ai souvent la charge des responsabilités concernant nos activiter de groupes
+
+une situation en particulier serais , un speech de presentation autour de l'entrepreneur Marcel akapko, programmer quelque jour a l'improvise ou j'ai du planifier a temps les seance de repetition et établi le plan de présentation en assignant les parties à chaque membre du groupe
+
+6-Pouvez-vous être à l'aise avec des tâches qui ne sont pas dans le monde du développement ?
+oui je considere que etre informaticienne ne se limite pas qu a la programation ou au code, je diversifie mes competences dans d'autres domaine telle que le secretariat 
+a travers la maitrise des logiciels et outils tel que : World , powerpoint , excel  etc...
+
+et je suis a l'aise avec l'initiative d'apprendre et de m'adapter au fure et a messure .
+
+
+7-Avez-vous déjà eu de l'expérience professionnelle
+
+je n est malheuresement pas encore eu l'ocasion travailler dans un cadre professionel ,toute fois j ai deja ocuper des postes de responsabiliter notament 
+
+lors de divers projet en groupe ou j ai toujours chercher a participer activement au bon deroulement du projet egalement au sein du club AISEC ou j ai assurer  le poste de " ... "
+
+
+8-Quelles sont les technologies que vous maîtrisez ? 
+ 
+Je maîtrise Java, Python, JavaScript, ainsi que des frameworks comme  React. J'ai également de l'expérience avec les bases de données SQL et NoSQL
+
+(...)
+
+9-Maîtrisez-vous des outils pour le travail en équipe 
+
+Oui, je suis familier avec Git pour le contrôle des modification , GitHub pour des projets collaboratifs et leur hebergement . J'ai également une connaissance de base d'Azure DevOps
+
+
+10-Avez-vous déjà travaillé en groupe ?
+Oui, j'ai travaillé sur plusieurs projets de groupe dans le cadre de mes études. Ces expériences m'ont appris l'importance de la communication, de la répartition des tâches et de la gestion du temps dans un contexte collaboratif
+
+(...)
+
+11-Quelles sont vos connaissances sur les projets spécifiques de l'ATD ? Y a-t-il un projet en particulier qui vous intéresse ?
+
+
+-depuis sa creation en septembre 2021 (29 septembre 2021 ) , a deja traiter plus de 9000 demande , elle s est engager dans des projet pour faciliter l'acces au services administrative tel que l'implementation des formulaires , la soumision des dossiers et leur suivie en ligne 
+
+je suis personnelement intersser par la consultation des resultats du bac II en ligne 
+
+
+
+-consiente de l'importance de l'informatique dans tout les secteur de developpement , j ai ete enthousiasmer par la mision de digitalisation des service de L'ATD 
+
+
+
+
+
+Quelles sont vos attentes concernant ce stage ? Qu'espérez-vous apprendre ou accomplir ?
+
+Mon ambition première est d'apprendre et de contribuer activement aux projets de l'ATD. J'espère approfondir mes connaissances techniques en travaillant sur des projets concrets de digitalisation.
+
+en deuxieme position, j'aimerais apporter ma pierre à l'édifice en utilisant mes compétences en développement web pour améliorer l'expérience utilisateur des services numériques publics. À long terme, j'aspire à devenir un acteur clé dans la digitalisation du Togo, et ce stage à l'ATD serait une étape cruciale dans la réalisation de cet objectif.
+
+
+
+
